@@ -1,24 +1,22 @@
-Time Series Analysis
+Time Series Analysis Using FBprophet
 
 Project Overview
+
 The purpose of this project is to create a model using Facebook Prophet
 
 
-Data Overview
-Analyzed dataset which contains infomation about the Milk production 
+Data Overview:
 
+Analyzed a time series dataset which contains information about milk production.
 
 The columns of the data:
 
-Date 
+Month
 Milk production per pounds
 
 
-Methodology
-Data Analysis: After understanding the problem we wanted to solve, we cleaned and analyze the data, dropping feature we deemed not important in terms of the problem.
-
-
-Built a Univariate Time series model and predict the future sales of Milk.
+Methodology:
+Built a Univariate Time series model and predicted the future sales of Milk.
 
 Repository Navigation:
 
