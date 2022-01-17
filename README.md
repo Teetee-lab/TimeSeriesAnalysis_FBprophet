@@ -17,11 +17,13 @@ The data was obtained from Kaggle. The columns of the data:
 ## Methodology
 Built a Univariate Time series model and predicted the future sales of Milk.
 
-## Repository Structure
+ ## Repository Structure
 
-├── Data                            <- Milk Dataset
-├── TimeseriesAnalysis.ipynb        <- Narrative documentation of the project in Jupyter notebook
-└── README.md                       <- Top-level README
+```
+├── Data                             <- Dataset from kaggle
+├── TimeseriesAnalysis.ipynb         <- Narrative documentation of the project in Jupyter notebook
+└── README.md                        <- Top-level README
+``` 
 
 ## AUthor
 - Titilayo Amuwo
