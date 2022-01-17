@@ -2,7 +2,7 @@
 
 # Time Series Analysis with FBprophet Library
 
-Time series forecasting can be demanding as there are many different methods you could use and many hyperparameters for each method. As a data scientist what if there is a third-party library that could perform all the fine-tuning within and you just need to feed the model and wait for the magic to happen. The answer to the question is the Facebook prophet library. In this blog post, we will explore Facebook Prophet using a dataset to understand time series forecasting and changepoints.
+Time series forecasting can be demanding as there are many different methods you could use and many hyperparameters for each method. As a data scientist what if there is a third-party library that could perform all the fine-tuning within and you just need to feed the model and wait for the magic to happen. The answer to the question is the Facebook prophet library. In this repository, I will explore Facebook Prophet using the milk dataset from kaggle to understand time series forecasting and the changepoints.
 
 
 ## Overview
