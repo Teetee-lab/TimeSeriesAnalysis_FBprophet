@@ -1,23 +1,26 @@
-# Time Series Analysis Using FBprophet
+![Fbprophet](https://analyticsindiamag.com/wp-content/uploads/schema-and-structured-data-for-wp/prophet-1200x900.png)
 
-## Project Overview
-The purpose of this project is to create a model using Facebook Prophet to predict and analyze Time series data.
+# Time Series Analysis with FBprophet Library
 
-## Data Overview:
+Time series forecasting can be demanding as there are many different methods you could use and many hyperparameters for each method. As a data scientist what if there is a third-party library that could perform all the fine-tuning within and you just need to feed the model and wait for the magic to happen. The answer to the question is the Facebook prophet library. In this blog post, we will explore Facebook Prophet using a dataset to understand time series forecasting and changepoints.
 
-Analyzed a time series dataset which contains information about milk production.
-The columns of the data:
+
+## Overview
+The purpose of this repository to teach non-technical audience how to install and use Facebook Prophet Library.
+
+## Data Overview
+
+The data was obtained from Kaggle. The columns of the data:
 - Month
 - Milk production per pounds
 
-
-## Methodology:
+## Methodology
 Built a Univariate Time series model and predicted the future sales of Milk.
 
-## Repository Navigation:
-- Data
-- Notebook
-- README
+## Repository Structure
+├── Data                            <- Milk Dataset
+├── TimeseriesAnalysis.ipynb        <- Narrative documentation of the project in Jupyter notebook
+└── README.md                       <- Top-level README
 
 ## AUthor
 - Titilayo Amuwo
