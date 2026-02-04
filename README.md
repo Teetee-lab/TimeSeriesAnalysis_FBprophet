@@ -20,5 +20,5 @@ Built a Univariate Time series model and predicted the future sales of Milk.
 └── README.md                        <- Top-level README
 ``` 
 
-## AUthor
+## Author
 - Titilayo Amuwo
