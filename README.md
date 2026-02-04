@@ -1,5 +1,3 @@
-![Fbprophet](https://analyticsindiamag.com/wp-content/uploads/schema-and-structured-data-for-wp/prophet-1200x900.png)
-
 # Time Series Analysis using Facebook Prophet
 
 Time series forecasting can be demanding because there are several methods and hyperparameters to choose from. Facebook Prophet is a third-party library that can be utilized to perform all the functions of fine-tuning time series data. The repository explained the analyses and exploration of time series data using the Facebook Prophet software.
